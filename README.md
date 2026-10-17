@@ -1,6 +1,6 @@
 # 👋 Bu Junjie
 
-🎓 IoT student and developer at Jilin Agricultural University · 📍 Jilin, China
+🎓 Jilin Agricultural University · 📍 Jilin, China
 
 公开仓库主要是 AI Agent、图像工作流，以及一些本地优先的小工具。
 
