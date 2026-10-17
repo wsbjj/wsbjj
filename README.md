@@ -1,16 +1,16 @@
 # 👋 Bu Junjie
 
-🎓 就读于 Hanshan Normal University · 📍 Guangdong, China
+🎓 就读于吉林农业大学 · 📍 中国吉林
 
 公开仓库主要是 AI Agent、图像工作流，以及一些本地优先的小工具。
 
 [![网站](https://img.shields.io/badge/网站-wsbjj.github.io-BC52EE?style=flat&logo=astro&logoColor=white)](https://wsbjj.github.io/)
 [![项目](https://img.shields.io/badge/项目-全部仓库-181717?style=flat&logo=github&logoColor=white)](https://wsbjj.github.io/projects/)
+[![收藏](https://img.shields.io/badge/收藏-Stars-2da44e?style=flat&logo=github&logoColor=white)](https://github.com/wsbjj?tab=stars)
 
 ## 🛠️ 最近
 
 - 🖼️ [custom-imagegen](https://github.com/wsbjj/custom-imagegen) — 给 Codex 和 Claude Code 用的出图 skill，接口换成自己的 OpenAI 兼容服务
-- 🚂 [Hermes Railway 模板](https://github.com/wsbjj/hermes-railway-template) — Hermes Agent 的部署模板，带持久化配置和模型网关
 
 ## 📦 项目
 
@@ -34,7 +34,32 @@
 - [Feishu Coze Bridge](https://github.com/wsbjj/feishu_coze_bridge) — FastAPI 中间件，把 Coze 接到飞书群和私聊
 - [BOCHK Monitor](https://github.com/wsbjj/bochk_monitor_web) — 监控中银香港预约放号，有名额时发邮件
 
-🔗 Fork 和适配写在[项目页](https://wsbjj.github.io/projects/)，例如 [Nova Image Studio](https://github.com/wsbjj/nova-image-studio) 和 [Mission Control CN](https://github.com/wsbjj/mission-control-cn)。
+### 🚂 Railway 模板
+
+- ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) [Hermes Railway Template](https://github.com/wsbjj/hermes-railway-template) — Hermes Agent 部署模板，带持久化配置、多平台机器人和 OpenAI 兼容网关
+- ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) [Perplexity AI Railway](https://github.com/wsbjj/perplexity-ai-railway) — Perplexity 的 OpenAI 兼容 API 与 MCP，带号池面板。Fork
+- ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) [Open Connector Railway](https://github.com/wsbjj/open-connector-railway) — 把 SaaS 认证网关部署到 Railway。Fork
+- ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) [Sub2API Railway](https://github.com/wsbjj/sub2api_railway) — Claude、OpenAI、Gemini、Grok 订阅接入的中转服务。Fork
+- ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) [OpenClaw Railway Template](https://github.com/wsbjj/openclaw-railway-template) — OpenClaw 一键部署模板。Fork
+
+🔗 其余 Fork 和适配写在[项目页](https://wsbjj.github.io/projects/)，例如 [Nova Image Studio](https://github.com/wsbjj/nova-image-studio) 和 [Mission Control CN](https://github.com/wsbjj/mission-control-cn)。
+
+## ⭐ 收藏
+
+最近标星的仓库。完整列表在 [Stars](https://github.com/wsbjj?tab=stars)。
+
+- ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) [Mole](https://github.com/tw93/Mole) — 清理 Mac 和 Windows 的开源工具
+- ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) [夸克网盘 Skill](https://github.com/quark-clouddrive/quarkclouddrive_offical) — 在对话里搜索、整理和调用网盘文件
+- ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) [百度网盘 Skill](https://github.com/baidu-netdisk/bdpan-storage) — 用自然语言管理百度网盘
+- ![Markdown](https://img.shields.io/badge/-MD-000000?style=flat-square&logo=markdown&logoColor=white) [emilkowalski/skills](https://github.com/emilkowalski/skills) — 设计和工程向 Skill
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) [Magpie](https://github.com/yetone/magpie) — 在菜单栏切换 Agent 所用的模型
+- ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) [AIHOT](https://github.com/KKKKhazix/AIHOT) — 自己找热点、写日报的站点框架
+- ![Python](https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white) [figures4papers](https://github.com/ChenLiu-1996/figures4papers) — 论文配图脚本
+- ![Python](https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white) [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX) — 中国科研常用 LaTeX 模板
+- ![Python](https://img.shields.io/badge/-Py-3776AB?style=flat-square&logo=python&logoColor=white) [SciencePlots](https://github.com/garrettj403/SciencePlots) — Matplotlib 科研绘图样式
+- ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) — 开源 AI 短剧、漫剧制作工具
+- ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) [Kun](https://github.com/KunAgent/Kun) — 本地优先的 Agent 工作区
+- ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — 以插件组织的 Agent Harness
 
 ## 💻 技术栈
 
