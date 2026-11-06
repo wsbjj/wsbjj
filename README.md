@@ -71,4 +71,4 @@ TypeScript、Python、Vue / Nuxt、Java / Spring。桌面端用过 Electron，Wi
 
 ## 👀 Visitors statistics
 
-![Visitors statistics](https://moe-counter.grbhq.eu.org/get/@wsbjj?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Visitors statistics](https://moe-counter.lxchapu.com/github@wsbjj?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
