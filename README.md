@@ -71,4 +71,4 @@ TypeScript、Python、Vue / Nuxt、Java / Spring。桌面端用过 Electron，Wi
 
 ## 👀 Visitors statistics
 
-![Visitors statistics](https://komarev.com/ghpvc/?username=wsbjj&label=Visitors%20statistics&color=blueviolet&style=flat)
+![Visitors statistics](https://moe-counter.grbhq.eu.org/get/@wsbjj?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
