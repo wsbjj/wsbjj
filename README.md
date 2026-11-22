@@ -10,6 +10,12 @@
 [![项目](https://img.shields.io/badge/项目-全部仓库-181717?style=flat&logo=github&logoColor=white)](https://wsbjj.github.io/projects/)
 [![收藏](https://img.shields.io/badge/收藏-Stars-2da44e?style=flat&logo=github&logoColor=white)](https://github.com/wsbjj?tab=stars)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/langs-light.svg">
+  <img alt="公开仓库语言占比，TypeScript 为主" src="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/langs-light.svg" width="460">
+</picture>
+
 <br clear="right" />
 
 <picture>
