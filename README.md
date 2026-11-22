@@ -12,13 +12,11 @@
 
 <br clear="right" />
 
-<p align="center">
-  <img src="output/bonsai-growth.gif" width="384" alt="从 GitHub 提交记录长出的像素盆栽" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/pet-light.svg">
+  <img alt="跟着 GitHub 动态变化的像素猫" src="https://raw.githubusercontent.com/wsbjj/wsbjj/main/dist/pet.svg" width="100%">
+</picture>
 
 ## 👀 Visitors statistics
 

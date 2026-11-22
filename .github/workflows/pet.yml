@@ -1,0 +1,17 @@
+name: YourTomo
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: knowprasad/YourTomo@v1
+        with:
+          username: wsbjj
+          timezone-offset-minutes: "480"
+          display-name: Bu
